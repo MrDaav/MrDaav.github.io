@@ -1,0 +1,18 @@
+baseURL = 'https://ejemplo.org/'
+languageCode = 'es-es'
+title = 'Silenciado | Security Log'
+theme = 'poison'
+
+[params]
+    brand = "Silenciado"
+    description = "Aprendiendo ciberseguridad en público"
+    menu_item_separator = "•"
+
+[[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 2
