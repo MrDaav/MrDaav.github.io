@@ -1,6 +1,6 @@
 ---
 title: "Día 2: Los Pilares de la Ciberseguridad (Análisis NSE 1 - Módulo 1)"
-date: 2026-01-06T23:00:00-06:00
+date: 2026-01-06T22:22:00-06:00
 draft: false
 tags: ["Fortinet", "NSE1", "Fundamentos", "Estrategia"]
 ---
