@@ -6,14 +6,28 @@
     <description>Recent content on Silenciado | Security Log</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 05 Jan 2026 22:31:22 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 22:05:00 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>El Nacimiento De Silenciado</title>
+      <title>La fragilidad del sistema: CVE-2025-66478 y la crisis de seguridad en México</title>
+      <link>http://localhost:1313/posts/dia-3-crisis-de-seguridad-en-m%C3%A9xico/</link>
+      <pubDate>Wed, 07 Jan 2026 22:05:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/dia-3-crisis-de-seguridad-en-m%C3%A9xico/</guid>
+      <description>&lt;p&gt;El inicio de 2026 quedará marcado por uno de los incidentes de seguridad digital más significativos en la historia de la ciberseguridad en México. Entre el &lt;strong&gt;31 de diciembre y el 1 de enero&lt;/strong&gt;, la UNAM sufrió una intrusión que escaló hasta comprometer el corazón de su infraestructura.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-sucedió&#34;&gt;¿Qué sucedió?&lt;/h2&gt;&#xA;&lt;p&gt;El ataque, ejecutado por el actor conocido como &lt;strong&gt;&amp;ldquo;ByteToBreach&amp;rdquo;&lt;/strong&gt;, no fue producto de la casualidad. Se trató de una cadena de fallas que permitieron el control total:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Día 2: Los Pilares de la Ciberseguridad (Análisis NSE 1 - Módulo 1)</title>
+      <link>http://localhost:1313/posts/dia-2-pilares-ciberseguridad/</link>
+      <pubDate>Tue, 06 Jan 2026 22:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/dia-2-pilares-ciberseguridad/</guid>
+      <description>&lt;h2 id=&#34;módulo-1-taxonomía-de-la-defensa&#34;&gt;Módulo 1: Taxonomía de la Defensa&lt;/h2&gt;&#xA;&lt;p&gt;Hoy inicié un análisis profundo del &lt;strong&gt;NSE 1 de Fortinet&lt;/strong&gt; a fin de traer contenido al blog y poder compartir un poco del contenido que aprendo, comenzando por el Módulo 1. A diferencia de otras introducciones teóricas, Fortinet clasifica la ciberseguridad en categorías críticas que debemos entender para diseñar una arquitectura de defensa coherente.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-las-5-categorías-técnicas-de-la-ciberseguridad&#34;&gt;1. Las 5 Categorías Técnicas de la Ciberseguridad&lt;/h3&gt;&#xA;&lt;p&gt;En este módulo, desglosamos el campo de batalla en cinco frentes principales:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Día 1: El Nacimiento de Silenciado</title>
       <link>http://localhost:1313/posts/el-nacimiento-de-silenciado/</link>
-      <pubDate>Mon, 05 Jan 2026 22:31:22 -0600</pubDate>
+      <pubDate>Mon, 05 Jan 2026 22:45:00 -0600</pubDate>
       <guid>http://localhost:1313/posts/el-nacimiento-de-silenciado/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;el-origen-de-chilenchiao-a-silenciado&#34;&gt;El origen: De &amp;ldquo;Chilenchiao&amp;rdquo; a Silenciado&lt;/h2&gt;&#xA;&lt;p&gt;Todo nombre tiene un origen, y el mío nació de una burla. Mi mejor amigo, en su afán de molestarme por mi formación, empezó a decirme &amp;ldquo;Licenciado&amp;rdquo;. Con el tiempo, la broma evolucionó, se deformó y terminó en un &lt;strong&gt;&amp;ldquo;Chilenchiao&amp;rdquo;&lt;/strong&gt; que solo nosotros entendíamos.&lt;/p&gt;&#xA;&lt;p&gt;Hoy, al dar el salto definitivo al mundo de la ciberseguridad, he decidido rescatar ese juego de palabras y profesionalizarlo. &lt;strong&gt;Silenciado&lt;/strong&gt; es el resultado de esa evolución. Es un homenaje a mis raíces y amigos, pero también una referencia a la discreción, el anonimato y la escucha activa que requiere esta profesión.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

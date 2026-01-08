@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fundamentos on Silenciado | Security Log</title>
+    <link>http://localhost:1313/tags/fundamentos/</link>
+    <description>Recent content in Fundamentos on Silenciado | Security Log</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 06 Jan 2026 22:22:00 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fundamentos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Día 2: Los Pilares de la Ciberseguridad (Análisis NSE 1 - Módulo 1)</title>
+      <link>http://localhost:1313/posts/dia-2-pilares-ciberseguridad/</link>
+      <pubDate>Tue, 06 Jan 2026 22:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/dia-2-pilares-ciberseguridad/</guid>
+      <description>&lt;h2 id=&#34;módulo-1-taxonomía-de-la-defensa&#34;&gt;Módulo 1: Taxonomía de la Defensa&lt;/h2&gt;&#xA;&lt;p&gt;Hoy inicié un análisis profundo del &lt;strong&gt;NSE 1 de Fortinet&lt;/strong&gt; a fin de traer contenido al blog y poder compartir un poco del contenido que aprendo, comenzando por el Módulo 1. A diferencia de otras introducciones teóricas, Fortinet clasifica la ciberseguridad en categorías críticas que debemos entender para diseñar una arquitectura de defensa coherente.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-las-5-categorías-técnicas-de-la-ciberseguridad&#34;&gt;1. Las 5 Categorías Técnicas de la Ciberseguridad&lt;/h3&gt;&#xA;&lt;p&gt;En este módulo, desglosamos el campo de batalla en cinco frentes principales:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

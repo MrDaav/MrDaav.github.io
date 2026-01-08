@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manifiesto on Silenciado | Security Log</title>
+    <link>http://localhost:1313/tags/manifiesto/</link>
+    <description>Recent content in Manifiesto on Silenciado | Security Log</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 05 Jan 2026 22:45:00 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/manifiesto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Día 1: El Nacimiento de Silenciado</title>
+      <link>http://localhost:1313/posts/el-nacimiento-de-silenciado/</link>
+      <pubDate>Mon, 05 Jan 2026 22:45:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/el-nacimiento-de-silenciado/</guid>
+      <description>&lt;h2 id=&#34;el-origen-de-chilenchiao-a-silenciado&#34;&gt;El origen: De &amp;ldquo;Chilenchiao&amp;rdquo; a Silenciado&lt;/h2&gt;&#xA;&lt;p&gt;Todo nombre tiene un origen, y el mío nació de una burla. Mi mejor amigo, en su afán de molestarme por mi formación, empezó a decirme &amp;ldquo;Licenciado&amp;rdquo;. Con el tiempo, la broma evolucionó, se deformó y terminó en un &lt;strong&gt;&amp;ldquo;Chilenchiao&amp;rdquo;&lt;/strong&gt; que solo nosotros entendíamos.&lt;/p&gt;&#xA;&lt;p&gt;Hoy, al dar el salto definitivo al mundo de la ciberseguridad, he decidido rescatar ese juego de palabras y profesionalizarlo. &lt;strong&gt;Silenciado&lt;/strong&gt; es el resultado de esa evolución. Es un homenaje a mis raíces y amigos, pero también una referencia a la discreción, el anonimato y la escucha activa que requiere esta profesión.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

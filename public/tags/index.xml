@@ -6,6 +6,56 @@
     <description>Recent content in Tags on Silenciado | Security Log</description>
     <generator>Hugo</generator>
     <language>es-es</language>
+    <lastBuildDate>Tue, 06 Jan 2026 22:22:00 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estrategia</title>
+      <link>http://localhost:1313/tags/estrategia/</link>
+      <pubDate>Tue, 06 Jan 2026 22:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/estrategia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fortinet</title>
+      <link>http://localhost:1313/tags/fortinet/</link>
+      <pubDate>Tue, 06 Jan 2026 22:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/fortinet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fundamentos</title>
+      <link>http://localhost:1313/tags/fundamentos/</link>
+      <pubDate>Tue, 06 Jan 2026 22:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/fundamentos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NSE1</title>
+      <link>http://localhost:1313/tags/nse1/</link>
+      <pubDate>Tue, 06 Jan 2026 22:22:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/nse1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ciberseguridad</title>
+      <link>http://localhost:1313/tags/ciberseguridad/</link>
+      <pubDate>Mon, 05 Jan 2026 22:45:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/ciberseguridad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning-in-Public</title>
+      <link>http://localhost:1313/tags/learning-in-public/</link>
+      <pubDate>Mon, 05 Jan 2026 22:45:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/learning-in-public/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manifiesto</title>
+      <link>http://localhost:1313/tags/manifiesto/</link>
+      <pubDate>Mon, 05 Jan 2026 22:45:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/manifiesto/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

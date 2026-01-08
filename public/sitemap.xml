@@ -2,17 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/el-nacimiento-de-silenciado/</loc>
-    <lastmod>2026-01-05T22:31:22-06:00</lastmod>
+    <loc>http://localhost:1313/posts/dia-3-crisis-de-seguridad-en-m%C3%A9xico/</loc>
+    <lastmod>2026-01-07T22:03:12-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-05T22:31:22-06:00</lastmod>
+    <lastmod>2026-01-07T22:03:12-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-05T22:31:22-06:00</lastmod>
+    <lastmod>2026-01-07T22:03:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/posts/dia-2-pilares-ciberseguridad/</loc>
+    <lastmod>2026-01-06T22:22:00-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/estrategia/</loc>
+    <lastmod>2026-01-06T22:22:00-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fortinet/</loc>
+    <lastmod>2026-01-06T22:22:00-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fundamentos/</loc>
+    <lastmod>2026-01-06T22:22:00-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nse1/</loc>
+    <lastmod>2026-01-06T22:22:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-06T22:22:00-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ciberseguridad/</loc>
+    <lastmod>2026-01-05T22:45:00-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/el-nacimiento-de-silenciado/</loc>
+    <lastmod>2026-01-05T22:45:00-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning-in-public/</loc>
+    <lastmod>2026-01-05T22:45:00-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/manifiesto/</loc>
+    <lastmod>2026-01-05T22:45:00-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UNAM on Silenciado | Security Log</title>
+    <link>http://localhost:1313/tags/unam/</link>
+    <description>Recent content in UNAM on Silenciado | Security Log</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 07 Jan 2026 22:05:00 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La fragilidad del sistema: CVE-2025-66478 y la crisis de seguridad en México</title>
+      <link>http://localhost:1313/posts/dia-3-crisis-de-seguridad-en-m%C3%A9xico/</link>
+      <pubDate>Wed, 07 Jan 2026 22:05:00 -0600</pubDate>
+      <guid>http://localhost:1313/posts/dia-3-crisis-de-seguridad-en-m%C3%A9xico/</guid>
+      <description>&lt;p&gt;El inicio de 2026 quedará marcado por uno de los incidentes de seguridad digital más significativos en la historia de la educación superior en México. Entre el &lt;strong&gt;31 de diciembre y el 1 de enero&lt;/strong&gt;, la UNAM sufrió una intrusión que escaló hasta comprometer el corazón de su infraestructura.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-sucedió&#34;&gt;¿Qué sucedió?&lt;/h2&gt;&#xA;&lt;p&gt;El ataque, ejecutado por el actor conocido como &lt;strong&gt;&amp;ldquo;ByteToBreach&amp;rdquo;&lt;/strong&gt;, no fue producto de la casualidad. Se trató de una cadena de fallas que permitieron el control total:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
