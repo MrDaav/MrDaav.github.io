@@ -1,8 +1,8 @@
 +++
-title: "Más allá del Firewall: ¿Qué es el NAC y por qué tu red lo necesita?"
-date: 2026-01-10T21:26:00-05:00
-draft: false
-tags: ["NAC", "Seguridad Perimetral", "Zero Trust", "Networking"]
+title = "Más allá del Firewall: ¿Qué es el NAC y por qué tu red lo necesita?"
+date = 2026-01-10T21:26:00-05:00
+draft = false
+tags = ["NAC", "Seguridad Perimetral", "Zero Trust", "Networking"]
 +++
 
 Ayer hablamos sobre los **firewalls** y cómo actúan como el muro de seguridad de nuestra red. Sin embargo, en un mundo donde el teletrabajo, los dispositivos móviles (BYOD, de las siglas Bring Your Own Device) y el IoT (Internet of Things) son la norma, el muro ya no es suficiente. Necesitamos un "portero" inteligente.
