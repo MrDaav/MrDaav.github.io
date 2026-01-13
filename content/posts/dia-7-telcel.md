@@ -1,7 +1,7 @@
 +++
 title = 'Crónica de un desastre anunciado'
 date = '2026-01-11T22:33:29-06:00'
-draft = true
+draft = false
 tags = ["Ciberseguridad", "Inseguridad", "Reforma", "México"]
 +++
 

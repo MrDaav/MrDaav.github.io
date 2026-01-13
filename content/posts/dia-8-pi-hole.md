@@ -1,5 +1,5 @@
 +++
-title = 'Dia 8 Pi Hole'
+title = 'Pi Hole'
 date = '2026-01-12T22:43:36-06:00'
 draft = false
 tags = ["DNS", "Redes", "AdBlocker"]
